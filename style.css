@@ -134,3 +134,66 @@ ul a:hover {
 
 } 
 /* header hero-section ends  */
+
+
+/* main section start */
+
+/* speaker info section starts */
+
+.main-sec1 {
+    background-color: white;
+    display: grid;
+    justify-content: center;
+  
+  
+  
+    
+
+}
+
+.main-hero-parent {
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-between;
+    gap: 20px;
+
+
+}
+
+.section-heading {
+                 text-align: center;
+                 margin: 80px auto 40px auto;
+
+}
+
+.speaker-img {
+    border: 1px solid #E5E7EB;
+    border-radius: 5px;
+             
+}
+
+.speaker-info {
+             margin:20px 0px 25px 10px  ;
+              display: flex;
+              flex-direction: column;
+              gap: 20px; 
+     
+}
+
+
+.speaker-post {
+                color: #575757;
+}
+    
+.speaker-info a {
+                 text-decoration: none;
+                 color: #2563EB;
+}
+
+.main-sec2 {
+    margin: 20px auto 150px auto;
+}
+
+
+/* speaker info section ends */
